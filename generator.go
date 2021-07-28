@@ -36,7 +36,6 @@ func main() {
 	generate_wallet("usdt_omni")
 	generate_wallet("eos")
 	generate_wallet("bch")
-	generate_wallet("qtum")
 	generate_wallet("fil")
 	generate_wallet("bsv")
 	generate_wallet("vet")
